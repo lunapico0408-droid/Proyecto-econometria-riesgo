@@ -1,0 +1,10 @@
+,Apple,Caterpillar,WTI_Oil,Oro,JohnsonJohnson,JPMorgan,CocaCola,NextEraEnergy,SP500_Benchmark
+Apple,False,True,False,False,False,False,False,False,False
+Caterpillar,False,False,False,False,True,False,False,False,False
+WTI_Oil,False,False,False,False,False,False,False,False,False
+Oro,False,False,False,False,False,False,False,False,False
+JohnsonJohnson,False,False,False,False,False,False,False,False,False
+JPMorgan,True,False,False,False,False,False,False,False,True
+CocaCola,False,False,False,False,False,False,False,False,False
+NextEraEnergy,False,False,False,False,False,False,False,False,False
+SP500_Benchmark,False,False,False,False,False,False,True,False,False
